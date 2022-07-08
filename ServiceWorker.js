@@ -1,9 +1,9 @@
 const cacheName = "henryXjake-BallzXtreme-0.3";
 const contentToCache = [
-    "Build/Custom PWA.loader.js",
-    "Build/Custom PWA.framework.js.unityweb",
-    "Build/Custom PWA.data.unityweb",
-    "Build/Custom PWA.wasm.unityweb",
+    "Build/BallzXtremeWebGL.loader.js",
+    "Build/BallzXtremeWebGL.framework.js.unityweb",
+    "Build/BallzXtremeWebGL.data.unityweb",
+    "Build/BallzXtremeWebGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
